@@ -1,16 +1,14 @@
 # quiz_app
 
-A new Flutter project.
+A modern and interactive quiz application built with Flutter that provides an engaging learning experience with multiple-choice questions and real-time feedback. 
 
-## Getting Started
+##Features
+Interactive Quiz Interface: Clean and intuitive UI for seamless quiz-taking experience
+Multiple Choice Questions: Support for various question types with multiple answer options
+Real-time Feedback: Instant feedback on correct and incorrect answers
+Score Tracking: Keep track of your performance throughout the quiz
+Progress Indicator: Visual progress bar to show quiz completion status
+Smooth Animations: Engaging transitions and animations for better UX
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+View Live Demo: https://drive.google.com/file/d/1CdjSkKzyg6ZzBgs24m1ahgib7xOC52p1/view?usp=sharing
